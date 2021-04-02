@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Gen_Manzanas" >
+        <file>mapa4.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+La descargar de los shapefiles para usar el pluggin, se puede hacer mediante la página http://www.ideca.gov.co/
+se deben descargar los shapes de sector catastral, manzana catastral, lote, construcción, malla vial y placa domiciliaria.
+
+Se recomienda realizar un corte de los datos por localidades para evitar problemas con el rendimiento de la máquina
